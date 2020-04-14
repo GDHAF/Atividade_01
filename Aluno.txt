@@ -1,4 +1,5 @@
 Nome: Henrique;
 Sobrenome: Alves Ferreira;
 email: henriqueaf22@gmailcom;
-Curso: Desenvolvimento de Sistemas
+Curso: Desenvolvimento de Sistemas;
+Disciplina: Banco de Dados
